@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_instrument_dspec_recovered
-last_request: '2022-01-21T19:27:31.361057Z'
+last_request: '2022-02-07T18:49:08.301240Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-MFD35-04-ADCPTM000-recovered_inst-adcpt_m_instrument_dspec_recovered/main/history/response.json
-status: success
+status: pending
